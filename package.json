@@ -1,0 +1,13 @@
+{
+  "name": "Names_scores",
+  "description": "Names scores",
+  "version": "1.0.0",
+  "private": false,
+  "author": "David Chan",
+  "engines": {
+    "node": "~6.10"
+  },
+  "scripts": {
+    "start": "node script "
+    }
+}
